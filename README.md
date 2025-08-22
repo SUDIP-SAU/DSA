@@ -1,2 +1,3 @@
 # DSA
-This is my repository for DSA
+This is my repository for DSA.
+Author - Sudip Sau
