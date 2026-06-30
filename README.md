@@ -10,10 +10,12 @@ Author - Sudip Sau
 | ------- |
 | [0007-reverse-integer](https://github.com/SUDIP-SAU/DSA/tree/master/0007-reverse-integer) |
 | [0231-power-of-two](https://github.com/SUDIP-SAU/DSA/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/SUDIP-SAU/DSA/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/SUDIP-SAU/DSA/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/SUDIP-SAU/DSA/tree/master/0268-missing-number) |
 ## Recursion
 |  |
 | ------- |
@@ -22,8 +24,21 @@ Author - Sudip Sau
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SUDIP-SAU/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0268-missing-number](https://github.com/SUDIP-SAU/DSA/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SUDIP-SAU/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Hash Table
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/SUDIP-SAU/DSA/tree/master/0268-missing-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/SUDIP-SAU/DSA/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/SUDIP-SAU/DSA/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
