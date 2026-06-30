@@ -14,6 +14,7 @@ Author - Sudip Sau
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/SUDIP-SAU/DSA/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/SUDIP-SAU/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/SUDIP-SAU/DSA/tree/master/0268-missing-number) |
 ## Recursion
@@ -24,6 +25,7 @@ Author - Sudip Sau
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SUDIP-SAU/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0136-single-number](https://github.com/SUDIP-SAU/DSA/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/SUDIP-SAU/DSA/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/SUDIP-SAU/DSA/tree/master/0485-max-consecutive-ones) |
 ## Two Pointers
