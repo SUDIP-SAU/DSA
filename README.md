@@ -39,6 +39,7 @@ Author - Sudip Sau
 | [0169-majority-element](https://github.com/SUDIP-SAU/DSA/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/SUDIP-SAU/DSA/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/SUDIP-SAU/DSA/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/SUDIP-SAU/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SUDIP-SAU/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
@@ -55,6 +56,7 @@ Author - Sudip Sau
 | [0128-longest-consecutive-sequence](https://github.com/SUDIP-SAU/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/SUDIP-SAU/DSA/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/SUDIP-SAU/DSA/tree/master/0268-missing-number) |
+| [0560-subarray-sum-equals-k](https://github.com/SUDIP-SAU/DSA/tree/master/0560-subarray-sum-equals-k) |
 ## Binary Search
 |  |
 | ------- |
@@ -94,4 +96,8 @@ Author - Sudip Sau
 | [0048-rotate-image](https://github.com/SUDIP-SAU/DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/SUDIP-SAU/DSA/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/SUDIP-SAU/DSA/tree/master/0073-set-matrix-zeroes) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/SUDIP-SAU/DSA/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
