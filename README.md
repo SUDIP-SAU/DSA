@@ -26,6 +26,7 @@ Author - Sudip Sau
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SUDIP-SAU/DSA/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/SUDIP-SAU/DSA/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SUDIP-SAU/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/SUDIP-SAU/DSA/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/SUDIP-SAU/DSA/tree/master/0048-rotate-image) |
@@ -47,6 +48,7 @@ Author - Sudip Sau
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/SUDIP-SAU/DSA/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SUDIP-SAU/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/SUDIP-SAU/DSA/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/SUDIP-SAU/DSA/tree/master/0075-sort-colors) |
@@ -69,6 +71,7 @@ Author - Sudip Sau
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/SUDIP-SAU/DSA/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/SUDIP-SAU/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/SUDIP-SAU/DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/SUDIP-SAU/DSA/tree/master/0169-majority-element) |
