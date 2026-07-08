@@ -138,4 +138,12 @@ Author - Sudip Sau
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/SUDIP-SAU/DSA/tree/master/0493-reverse-pairs) |
+## String
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/SUDIP-SAU/DSA/tree/master/1021-remove-outermost-parentheses) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/SUDIP-SAU/DSA/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
