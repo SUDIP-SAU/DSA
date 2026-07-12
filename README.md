@@ -12,6 +12,7 @@ Author - Sudip Sau
 | [0048-rotate-image](https://github.com/SUDIP-SAU/DSA/tree/master/0048-rotate-image) |
 | [0231-power-of-two](https://github.com/SUDIP-SAU/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/SUDIP-SAU/DSA/tree/master/0268-missing-number) |
+| [0509-fibonacci-number](https://github.com/SUDIP-SAU/DSA/tree/master/0509-fibonacci-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -22,6 +23,7 @@ Author - Sudip Sau
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/SUDIP-SAU/DSA/tree/master/0231-power-of-two) |
+| [0509-fibonacci-number](https://github.com/SUDIP-SAU/DSA/tree/master/0509-fibonacci-number) |
 ## Array
 |  |
 | ------- |
@@ -127,6 +129,7 @@ Author - Sudip Sau
 | [0118-pascals-triangle](https://github.com/SUDIP-SAU/DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SUDIP-SAU/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/SUDIP-SAU/DSA/tree/master/0152-maximum-product-subarray) |
+| [0509-fibonacci-number](https://github.com/SUDIP-SAU/DSA/tree/master/0509-fibonacci-number) |
 ## Simulation
 |  |
 | ------- |
@@ -172,4 +175,8 @@ Author - Sudip Sau
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/SUDIP-SAU/DSA/tree/master/1021-remove-outermost-parentheses) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/SUDIP-SAU/DSA/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
