@@ -11,6 +11,7 @@ Author - Sudip Sau
 | [0007-reverse-integer](https://github.com/SUDIP-SAU/DSA/tree/master/0007-reverse-integer) |
 | [0029-divide-two-integers](https://github.com/SUDIP-SAU/DSA/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/SUDIP-SAU/DSA/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/SUDIP-SAU/DSA/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/SUDIP-SAU/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/SUDIP-SAU/DSA/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/SUDIP-SAU/DSA/tree/master/0509-fibonacci-number) |
@@ -25,6 +26,7 @@ Author - Sudip Sau
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/SUDIP-SAU/DSA/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/SUDIP-SAU/DSA/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/SUDIP-SAU/DSA/tree/master/0509-fibonacci-number) |
 ## Array
