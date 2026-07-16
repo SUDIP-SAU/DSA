@@ -206,4 +206,8 @@ Author - Sudip Sau
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/SUDIP-SAU/DSA/tree/master/0796-rotate-string) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/SUDIP-SAU/DSA/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
