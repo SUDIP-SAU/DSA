@@ -9,6 +9,7 @@ Author - Sudip Sau
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/SUDIP-SAU/DSA/tree/master/0007-reverse-integer) |
+| [0012-integer-to-roman](https://github.com/SUDIP-SAU/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/SUDIP-SAU/DSA/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/SUDIP-SAU/DSA/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/SUDIP-SAU/DSA/tree/master/0048-rotate-image) |
@@ -87,6 +88,7 @@ Author - Sudip Sau
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SUDIP-SAU/DSA/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/SUDIP-SAU/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/SUDIP-SAU/DSA/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/SUDIP-SAU/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/SUDIP-SAU/DSA/tree/master/0128-longest-consecutive-sequence) |
@@ -186,6 +188,7 @@ Author - Sudip Sau
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SUDIP-SAU/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0012-integer-to-roman](https://github.com/SUDIP-SAU/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/SUDIP-SAU/DSA/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/SUDIP-SAU/DSA/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/SUDIP-SAU/DSA/tree/master/0125-valid-palindrome) |
