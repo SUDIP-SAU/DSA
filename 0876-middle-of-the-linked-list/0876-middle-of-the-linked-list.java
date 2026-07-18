@@ -1,13 +1,20 @@
 class Solution {
     public ListNode middleNode(ListNode head) {
 
-        ArrayList<ListNode> list = new ArrayList<>();
+        int count = 0;
+        ListNode temp = head;
 
-        while (head != null) {
-            list.add(head);
-            head = head.next;
+        while (temp != null) {
+            count++;
+            temp = temp.next;
         }
 
-        return list.get(list.size() / 2);
+        temp = head;
+
+        for (int i = 0; i < count / 2; i++) {
+            temp = temp.next;
+        }
+
+        return temp;
     }
 }
