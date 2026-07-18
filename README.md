@@ -83,6 +83,7 @@ Author - Sudip Sau
 | [0088-merge-sorted-array](https://github.com/SUDIP-SAU/DSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/SUDIP-SAU/DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/SUDIP-SAU/DSA/tree/master/0151-reverse-words-in-a-string) |
+| [0876-middle-of-the-linked-list](https://github.com/SUDIP-SAU/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SUDIP-SAU/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
@@ -229,6 +230,7 @@ Author - Sudip Sau
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/SUDIP-SAU/DSA/tree/master/0237-delete-node-in-a-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/SUDIP-SAU/DSA/tree/master/0876-middle-of-the-linked-list) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
