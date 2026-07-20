@@ -1,18 +1,26 @@
-import java.util.HashSet;
-
 class Solution {
     public ListNode detectCycle(ListNode head) {
 
-        HashSet<ListNode> set = new HashSet<>();
+        ListNode slow = head;
+        ListNode fast = head;
 
-        while (head != null) {
+        while (fast != null && fast.next != null) {
 
-            if (set.contains(head))
-                return head;
+            slow = slow.next;
+            fast = fast.next.next;
 
-            set.add(head);
+            if (slow == fast) {
 
-            head = head.next;
+                slow = head;
+
+                while (slow != fast) {
+
+                    slow = slow.next;
+                    fast = fast.next;
+                }
+
+                return slow;
+            }
         }
 
         return null;
