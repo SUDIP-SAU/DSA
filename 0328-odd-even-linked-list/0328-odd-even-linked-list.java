@@ -1,37 +1,23 @@
 class Solution {
     public ListNode oddEvenList(ListNode head) {
 
-        if (head == null)
-            return null;
+        if (head == null || head.next == null)
+            return head;
 
-        ArrayList<Integer> odd = new ArrayList<>();
-        ArrayList<Integer> even = new ArrayList<>();
+        ListNode odd = head;
+        ListNode even = head.next;
+        ListNode evenHead = even;
 
-        ListNode temp = head;
-        int pos = 1;
+        while (even != null && even.next != null) {
 
-        while (temp != null) {
+            odd.next = even.next;
+            odd = odd.next;
 
-            if (pos % 2 == 1)
-                odd.add(temp.val);
-            else
-                even.add(temp.val);
-
-            temp = temp.next;
-            pos++;
+            even.next = odd.next;
+            even = even.next;
         }
 
-        temp = head;
-
-        for (int num : odd) {
-            temp.val = num;
-            temp = temp.next;
-        }
-
-        for (int num : even) {
-            temp.val = num;
-            temp = temp.next;
-        }
+        odd.next = evenHead;
 
         return head;
     }
