@@ -21,6 +21,7 @@ Author - Sudip Sau
 | [0412-fizz-buzz](https://github.com/SUDIP-SAU/DSA/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/SUDIP-SAU/DSA/tree/master/0509-fibonacci-number) |
 | [1903-largest-odd-number-in-string](https://github.com/SUDIP-SAU/DSA/tree/master/1903-largest-odd-number-in-string) |
+| [2469-convert-the-temperature](https://github.com/SUDIP-SAU/DSA/tree/master/2469-convert-the-temperature) |
 ## Bit Manipulation
 |  |
 | ------- |
