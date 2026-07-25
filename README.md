@@ -16,6 +16,7 @@ Author - Sudip Sau
 | [0048-rotate-image](https://github.com/SUDIP-SAU/DSA/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/SUDIP-SAU/DSA/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/SUDIP-SAU/DSA/tree/master/0069-sqrtx) |
+| [0204-count-primes](https://github.com/SUDIP-SAU/DSA/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/SUDIP-SAU/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/SUDIP-SAU/DSA/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/SUDIP-SAU/DSA/tree/master/0412-fizz-buzz) |
@@ -67,6 +68,7 @@ Author - Sudip Sau
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SUDIP-SAU/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/SUDIP-SAU/DSA/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/SUDIP-SAU/DSA/tree/master/0169-majority-element) |
+| [0204-count-primes](https://github.com/SUDIP-SAU/DSA/tree/master/0204-count-primes) |
 | [0229-majority-element-ii](https://github.com/SUDIP-SAU/DSA/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/SUDIP-SAU/DSA/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/SUDIP-SAU/DSA/tree/master/0485-max-consecutive-ones) |
@@ -285,10 +287,15 @@ Author - Sudip Sau
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/SUDIP-SAU/DSA/tree/master/0204-count-primes) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/SUDIP-SAU/DSA/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SUDIP-SAU/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1004-max-consecutive-ones-iii](https://github.com/SUDIP-SAU/DSA/tree/master/1004-max-consecutive-ones-iii) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/SUDIP-SAU/DSA/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
