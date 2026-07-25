@@ -27,6 +27,7 @@ Author - Sudip Sau
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/SUDIP-SAU/DSA/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/SUDIP-SAU/DSA/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/SUDIP-SAU/DSA/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/SUDIP-SAU/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/SUDIP-SAU/DSA/tree/master/0268-missing-number) |
@@ -58,6 +59,7 @@ Author - Sudip Sau
 | [0056-merge-intervals](https://github.com/SUDIP-SAU/DSA/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/SUDIP-SAU/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/SUDIP-SAU/DSA/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/SUDIP-SAU/DSA/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/SUDIP-SAU/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/SUDIP-SAU/DSA/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/SUDIP-SAU/DSA/tree/master/0118-pascals-triangle) |
@@ -298,4 +300,8 @@ Author - Sudip Sau
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/SUDIP-SAU/DSA/tree/master/0204-count-primes) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/SUDIP-SAU/DSA/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
