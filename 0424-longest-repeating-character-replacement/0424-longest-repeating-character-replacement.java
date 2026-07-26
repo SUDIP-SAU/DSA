@@ -11,22 +11,15 @@ class Solution {
 
             freq[s.charAt(right) - 'A']++;
 
-            maxFreq = Math.max(maxFreq,
-                    freq[s.charAt(right) - 'A']);
+            maxFreq = Math.max(maxFreq,freq[s.charAt(right) - 'A']);
 
             while ((right - left + 1) - maxFreq > k) {
 
                 freq[s.charAt(left) - 'A']--;
                 left++;
-
-                maxFreq = 0;
-
-                for (int i = 0; i < 26; i++)
-                    maxFreq = Math.max(maxFreq, freq[i]);
             }
 
-            ans = Math.max(ans,
-                    right - left + 1);
+            ans = Math.max(ans,right - left + 1);
         }
 
         return ans;
