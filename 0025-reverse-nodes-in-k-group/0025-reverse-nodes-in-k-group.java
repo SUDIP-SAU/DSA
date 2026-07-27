@@ -1,44 +1,65 @@
 class Solution {
     public ListNode reverseKGroup(ListNode head, int k) {
 
-        if (head == null || k == 1)
-            return head;
-
-        int length = 0;
         ListNode temp = head;
+        ListNode prevLast = null;
 
         while (temp != null) {
-            length++;
-            temp = temp.next;
-        }
 
-        ListNode dummy = new ListNode(0);
-        dummy.next = head;
+            ListNode kthNode = getKthNode(temp, k);
 
-        ListNode prevGroup = dummy;
-        ListNode curr = head;
+            if (kthNode == null) {
 
-        while (length >= k) {
+                if (prevLast != null)
+                    prevLast.next = temp;
 
-            ListNode prev = null;
-            ListNode groupHead = curr;
-
-            for (int i = 0; i < k; i++) {
-                ListNode next = curr.next;
-                curr.next = prev;
-                prev = curr;
-                curr = next;
+                break;
             }
 
-            prevGroup.next = prev;
+            ListNode nextNode = kthNode.next;
 
-            groupHead.next = curr;
+            kthNode.next = null;
 
-            prevGroup = groupHead;
+            ListNode newHead = reverse(temp);
 
-            length -= k;
+            if (temp == head)
+                head = newHead;
+            else
+                prevLast.next = newHead;
+
+            prevLast = temp;
+
+            temp = nextNode;
         }
 
-        return dummy.next;
+        return head;
+    }
+
+    private ListNode getKthNode(ListNode temp, int k) {
+
+        k--;
+
+        while (temp != null && k > 0) {
+            temp = temp.next;
+            k--;
+        }
+
+        return temp;
+    }
+
+    private ListNode reverse(ListNode head) {
+
+        ListNode prev = null;
+        ListNode curr = head;
+
+        while (curr != null) {
+
+            ListNode next = curr.next;
+            curr.next = prev;
+            prev = curr;
+            curr = next;
+        }
+
+        return prev;
     }
 }
