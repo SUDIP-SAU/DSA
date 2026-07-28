@@ -166,6 +166,7 @@ Author - Sudip Sau
 | [0451-sort-characters-by-frequency](https://github.com/SUDIP-SAU/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SUDIP-SAU/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SUDIP-SAU/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/SUDIP-SAU/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/SUDIP-SAU/DSA/tree/master/3536-maximum-product-of-two-digits) |
 ## Divide and Conquer
 |  |
@@ -252,6 +253,7 @@ Author - Sudip Sau
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/SUDIP-SAU/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/SUDIP-SAU/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/SUDIP-SAU/DSA/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/SUDIP-SAU/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Stack
 |  |
 | ------- |
@@ -319,4 +321,8 @@ Author - Sudip Sau
 |  |
 | ------- |
 | [0078-subsets](https://github.com/SUDIP-SAU/DSA/tree/master/0078-subsets) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/SUDIP-SAU/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
