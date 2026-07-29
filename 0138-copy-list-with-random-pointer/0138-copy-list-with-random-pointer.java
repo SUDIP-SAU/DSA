@@ -6,25 +6,33 @@ class Solution {
 
         HashMap<Node, Node> map = new HashMap<>();
 
-        Node temp = head;
+        Node dummy = new Node(0);
+        Node copyTail = dummy;
+        Node curr = head;
 
-        while (temp != null) {
-            map.put(temp, new Node(temp.val));
-            temp = temp.next;
+        while (curr != null) {
+
+            Node newNode = new Node(curr.val);
+
+            map.put(curr, newNode);
+
+            copyTail.next = newNode;
+            copyTail = newNode;
+
+            curr = curr.next;
         }
 
-        temp = head;
+        curr = head;
+        Node copy = dummy.next;
 
-        while (temp != null) {
+        while (curr != null) {
 
-            Node copy = map.get(temp);
+            copy.random = map.get(curr.random);
 
-            copy.next = map.get(temp.next);
-            copy.random = map.get(temp.random);
-
-            temp = temp.next;
+            curr = curr.next;
+            copy = copy.next;
         }
 
-        return map.get(head);
+        return dummy.next;
     }
 }
