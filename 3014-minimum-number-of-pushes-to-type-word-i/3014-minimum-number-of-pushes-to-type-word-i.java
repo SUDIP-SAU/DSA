@@ -1,15 +1,18 @@
 class Solution {
     public int minimumPushes(String word) {
 
+        int n = word.length();
         int pushes = 0;
-        int press = 1;
+        int cost = 1;
 
-        for (int i = 0; i < word.length(); i++) {
+        while (n > 0) {
 
-            if (i > 0 && i % 8 == 0)
-                press++;
+            int letters = Math.min(8, n);
 
-            pushes += press;
+            pushes += letters * cost;
+
+            n -= letters;
+            cost++;
         }
 
         return pushes;
