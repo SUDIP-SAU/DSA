@@ -84,6 +84,7 @@ Author - Sudip Sau
 | [0704-binary-search](https://github.com/SUDIP-SAU/DSA/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/SUDIP-SAU/DSA/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/SUDIP-SAU/DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/SUDIP-SAU/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1260-shift-2d-grid](https://github.com/SUDIP-SAU/DSA/tree/master/1260-shift-2d-grid) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/SUDIP-SAU/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SUDIP-SAU/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -150,6 +151,7 @@ Author - Sudip Sau
 | [0704-binary-search](https://github.com/SUDIP-SAU/DSA/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/SUDIP-SAU/DSA/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/SUDIP-SAU/DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/SUDIP-SAU/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/SUDIP-SAU/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/SUDIP-SAU/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/SUDIP-SAU/DSA/tree/master/1539-kth-missing-positive-number) |
