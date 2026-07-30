@@ -24,6 +24,7 @@ Author - Sudip Sau
 | [0628-maximum-product-of-three-numbers](https://github.com/SUDIP-SAU/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1903-largest-odd-number-in-string](https://github.com/SUDIP-SAU/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [2469-convert-the-temperature](https://github.com/SUDIP-SAU/DSA/tree/master/2469-convert-the-temperature) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SUDIP-SAU/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/SUDIP-SAU/DSA/tree/master/3536-maximum-product-of-two-digits) |
 ## Bit Manipulation
 |  |
@@ -261,6 +262,7 @@ Author - Sudip Sau
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SUDIP-SAU/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/SUDIP-SAU/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/SUDIP-SAU/DSA/tree/master/1903-largest-odd-number-in-string) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SUDIP-SAU/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/SUDIP-SAU/DSA/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/SUDIP-SAU/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Stack
@@ -278,6 +280,7 @@ Author - Sudip Sau
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/SUDIP-SAU/DSA/tree/master/0410-split-array-largest-sum) |
 | [1903-largest-odd-number-in-string](https://github.com/SUDIP-SAU/DSA/tree/master/1903-largest-odd-number-in-string) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SUDIP-SAU/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Trie
 |  |
 | ------- |
