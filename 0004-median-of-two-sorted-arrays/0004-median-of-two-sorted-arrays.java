@@ -4,29 +4,62 @@ class Solution {
         int n = nums1.length;
         int m = nums2.length;
 
-        int[] arr = new int[n + m];
+        int total = n + m;
 
-        int i = 0, j = 0, k = 0;
+        int ind1 = (total - 1) / 2;
+        int ind2 = total / 2;
+
+        int i = 0, j = 0;
+        int cnt = 0;
+
+        int ele1 = -1;
+        int ele2 = -1;
 
         while (i < n && j < m) {
 
+            int val;
+
             if (nums1[i] < nums2[j])
-                arr[k++] = nums1[i++];
+                val = nums1[i++];
             else
-                arr[k++] = nums2[j++];
+                val = nums2[j++];
+
+            if (cnt == ind1)
+                ele1 = val;
+
+            if (cnt == ind2)
+                ele2 = val;
+
+            cnt++;
         }
 
-        while (i < n)
-            arr[k++] = nums1[i++];
+        while (i < n) {
 
-        while (j < m)
-            arr[k++] = nums2[j++];
+            if (cnt == ind1)
+                ele1 = nums1[i];
 
-        int len = n + m;
+            if (cnt == ind2)
+                ele2 = nums1[i];
 
-        if (len % 2 == 1)
-            return arr[len / 2];
+            cnt++;
+            i++;
+        }
 
-        return (arr[len / 2] + arr[len / 2 - 1]) / 2.0;
+        while (j < m) {
+
+            if (cnt == ind1)
+                ele1 = nums2[j];
+
+            if (cnt == ind2)
+                ele2 = nums2[j];
+
+            cnt++;
+            j++;
+        }
+
+        if (total % 2 == 1)
+            return ele2;
+
+        return (ele1 + ele2) / 2.0;
     }
 }
