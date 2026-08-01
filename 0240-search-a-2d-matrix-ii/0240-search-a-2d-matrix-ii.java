@@ -6,10 +6,21 @@ class Solution {
 
         for(int i=0;i<rows;i++){
 
-            for(int j=0;j<cols;j++){
+            int low=0;
+            int high=cols-1;
 
-                if(matrix[i][j]==target)
+            while(low<=high){
+
+                int mid=low+(high-low)/2;
+
+                if(matrix[i][mid]==target)
                     return true;
+
+                else if(matrix[i][mid]<target)
+                    low=mid+1;
+
+                else
+                    high=mid-1;
             }
         }
 
