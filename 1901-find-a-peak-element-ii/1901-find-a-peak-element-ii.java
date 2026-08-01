@@ -4,21 +4,35 @@ class Solution {
         int rows = mat.length;
         int cols = mat[0].length;
 
-        for (int i = 0; i < rows; i++) {
+        int low = 0;
+        int high = cols - 1;
 
-            int maxCol = 0;
+        while (low <= high) {
 
-            for (int j = 1; j < cols; j++) {
+            int mid = low + (high - low) / 2;
 
-                if (mat[i][j] > mat[i][maxCol])
-                    maxCol = j;
+            int maxRow = 0;
+
+            for (int i = 1; i < rows; i++) {
+                if (mat[i][mid] > mat[maxRow][mid]) {
+                    maxRow = i;
+                }
             }
 
-            boolean up = (i == 0) || (mat[i][maxCol] > mat[i - 1][maxCol]);
-            boolean down = (i == rows - 1) || (mat[i][maxCol] > mat[i + 1][maxCol]);
+            int left = (mid == 0) ? -1 : mat[maxRow][mid - 1];
+            int right = (mid == cols - 1) ? -1 : mat[maxRow][mid + 1];
 
-            if (up && down)
-                return new int[]{i, maxCol};
+            if (mat[maxRow][mid] > left && mat[maxRow][mid] > right) {
+                return new int[]{maxRow, mid};
+            }
+
+            else if (left > mat[maxRow][mid]) {
+                high = mid - 1;
+            }
+
+            else {
+                low = mid + 1;
+            }
         }
 
         return new int[]{-1, -1};
