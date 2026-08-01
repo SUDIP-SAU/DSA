@@ -4,23 +4,21 @@ class Solution {
         int rows = matrix.length;
         int cols = matrix[0].length;
 
-        for(int i=0;i<rows;i++){
+        int row = 0;
+        int col = cols - 1;
 
-            int low=0;
-            int high=cols-1;
+        while (row < rows && col >= 0) {
 
-            while(low<=high){
+            if (matrix[row][col] == target) {
+                return true;
+            }
 
-                int mid=low+(high-low)/2;
+            else if (matrix[row][col] > target) {
+                col--;
+            }
 
-                if(matrix[i][mid]==target)
-                    return true;
-
-                else if(matrix[i][mid]<target)
-                    low=mid+1;
-
-                else
-                    high=mid-1;
+            else {
+                row++;
             }
         }
 
