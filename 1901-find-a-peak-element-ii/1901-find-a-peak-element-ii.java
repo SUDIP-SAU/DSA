@@ -6,16 +6,19 @@ class Solution {
 
         for (int i = 0; i < rows; i++) {
 
-            for (int j = 0; j < cols; j++) {
+            int maxCol = 0;
 
-                boolean up = (i == 0) || (mat[i][j] > mat[i - 1][j]);
-                boolean down = (i == rows - 1) || (mat[i][j] > mat[i + 1][j]);
-                boolean left = (j == 0) || (mat[i][j] > mat[i][j - 1]);
-                boolean right = (j == cols - 1) || (mat[i][j] > mat[i][j + 1]);
+            for (int j = 1; j < cols; j++) {
 
-                if (up && down && left && right)
-                    return new int[]{i, j};
+                if (mat[i][j] > mat[i][maxCol])
+                    maxCol = j;
             }
+
+            boolean up = (i == 0) || (mat[i][maxCol] > mat[i - 1][maxCol]);
+            boolean down = (i == rows - 1) || (mat[i][maxCol] > mat[i + 1][maxCol]);
+
+            if (up && down)
+                return new int[]{i, maxCol};
         }
 
         return new int[]{-1, -1};
