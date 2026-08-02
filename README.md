@@ -24,6 +24,7 @@ Author - Sudip Sau
 | [0509-fibonacci-number](https://github.com/SUDIP-SAU/DSA/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SUDIP-SAU/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1903-largest-odd-number-in-string](https://github.com/SUDIP-SAU/DSA/tree/master/1903-largest-odd-number-in-string) |
+| [1922-count-good-numbers](https://github.com/SUDIP-SAU/DSA/tree/master/1922-count-good-numbers) |
 | [2469-convert-the-temperature](https://github.com/SUDIP-SAU/DSA/tree/master/2469-convert-the-temperature) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SUDIP-SAU/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/SUDIP-SAU/DSA/tree/master/3536-maximum-product-of-two-digits) |
@@ -47,6 +48,7 @@ Author - Sudip Sau
 | [0234-palindrome-linked-list](https://github.com/SUDIP-SAU/DSA/tree/master/0234-palindrome-linked-list) |
 | [0486-predict-the-winner](https://github.com/SUDIP-SAU/DSA/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/SUDIP-SAU/DSA/tree/master/0509-fibonacci-number) |
+| [1922-count-good-numbers](https://github.com/SUDIP-SAU/DSA/tree/master/1922-count-good-numbers) |
 ## Array
 |  |
 | ------- |
