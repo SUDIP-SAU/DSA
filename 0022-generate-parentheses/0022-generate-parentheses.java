@@ -3,23 +3,26 @@ class Solution {
 
         List<String> ans = new ArrayList<>();
 
-        generate("", 2 * n, ans);
+        solve("", 0, 0, n, ans);
 
         return ans;
     }
 
-    private void generate(String s, int len, List<String> ans) {
+    private void solve(String current, int open, int close, int n, List<String> ans) {
 
-        if (s.length() == len) {
+        if (current.length() == 2 * n) {
 
-            if (isValid(s))
-                ans.add(s);
+            if (isValid(current))
+                ans.add(current);
 
             return;
         }
 
-        generate(s + "(", len, ans);
-        generate(s + ")", len, ans);
+        if (open < n)
+            solve(current + "(", open + 1, close, n, ans);
+
+        if (close < n)
+            solve(current + ")", open, close + 1, n, ans);
     }
 
     private boolean isValid(String s) {
