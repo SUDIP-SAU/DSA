@@ -23,6 +23,7 @@ Author - Sudip Sau
 | [0486-predict-the-winner](https://github.com/SUDIP-SAU/DSA/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/SUDIP-SAU/DSA/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SUDIP-SAU/DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/SUDIP-SAU/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1903-largest-odd-number-in-string](https://github.com/SUDIP-SAU/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/SUDIP-SAU/DSA/tree/master/1922-count-good-numbers) |
 | [2469-convert-the-temperature](https://github.com/SUDIP-SAU/DSA/tree/master/2469-convert-the-temperature) |
@@ -101,6 +102,7 @@ Author - Sudip Sau
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/SUDIP-SAU/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SUDIP-SAU/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/SUDIP-SAU/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/SUDIP-SAU/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1539-kth-missing-positive-number](https://github.com/SUDIP-SAU/DSA/tree/master/1539-kth-missing-positive-number) |
 | [1901-find-a-peak-element-ii](https://github.com/SUDIP-SAU/DSA/tree/master/1901-find-a-peak-element-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SUDIP-SAU/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -222,6 +224,7 @@ Author - Sudip Sau
 | [0410-split-array-largest-sum](https://github.com/SUDIP-SAU/DSA/tree/master/0410-split-array-largest-sum) |
 | [0486-predict-the-winner](https://github.com/SUDIP-SAU/DSA/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/SUDIP-SAU/DSA/tree/master/0509-fibonacci-number) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/SUDIP-SAU/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Simulation
 |  |
 | ------- |
@@ -249,6 +252,7 @@ Author - Sudip Sau
 | [0410-split-array-largest-sum](https://github.com/SUDIP-SAU/DSA/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/SUDIP-SAU/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/SUDIP-SAU/DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/SUDIP-SAU/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Binary Indexed Tree
 |  |
 | ------- |
