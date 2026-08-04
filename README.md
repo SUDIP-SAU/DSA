@@ -107,6 +107,7 @@ Author - Sudip Sau
 | [1539-kth-missing-positive-number](https://github.com/SUDIP-SAU/DSA/tree/master/1539-kth-missing-positive-number) |
 | [1901-find-a-peak-element-ii](https://github.com/SUDIP-SAU/DSA/tree/master/1901-find-a-peak-element-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SUDIP-SAU/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3731-find-missing-elements](https://github.com/SUDIP-SAU/DSA/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -153,6 +154,7 @@ Author - Sudip Sau
 | [0930-binary-subarrays-with-sum](https://github.com/SUDIP-SAU/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/SUDIP-SAU/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SUDIP-SAU/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3731-find-missing-elements](https://github.com/SUDIP-SAU/DSA/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -197,6 +199,7 @@ Author - Sudip Sau
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SUDIP-SAU/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/SUDIP-SAU/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/SUDIP-SAU/DSA/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/SUDIP-SAU/DSA/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
