@@ -3,24 +3,31 @@ class Solution {
 
         int n = cardPoints.length;
 
-        int leftSum = 0;
+        int total = 0;
 
-        for (int i = 0; i < k; i++)
-            leftSum += cardPoints[i];
+        for (int num : cardPoints)
+            total += num;
 
-        int ans = leftSum;
+        if (k == n)
+            return total;
 
-        int rightSum = 0;
+        int window = n - k;
 
-        for (int i = 1; i <= k; i++) {
+        int curr = 0;
 
-            leftSum -= cardPoints[k - i];
+        for (int i = 0; i < window; i++)
+            curr += cardPoints[i];
 
-            rightSum += cardPoints[n - i];
+        int minSum = curr;
 
-            ans = Math.max(ans, leftSum + rightSum);
+        for (int i = window; i < n; i++) {
+
+            curr += cardPoints[i];
+            curr -= cardPoints[i - window];
+
+            minSum = Math.min(minSum, curr);
         }
 
-        return ans;
+        return total - minSum;
     }
 }
