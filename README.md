@@ -28,6 +28,7 @@ Author - Sudip Sau
 | [1922-count-good-numbers](https://github.com/SUDIP-SAU/DSA/tree/master/1922-count-good-numbers) |
 | [2469-convert-the-temperature](https://github.com/SUDIP-SAU/DSA/tree/master/2469-convert-the-temperature) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SUDIP-SAU/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/SUDIP-SAU/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/SUDIP-SAU/DSA/tree/master/3536-maximum-product-of-two-digits) |
 ## Bit Manipulation
 |  |
@@ -370,6 +371,7 @@ Author - Sudip Sau
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/SUDIP-SAU/DSA/tree/master/0204-count-primes) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/SUDIP-SAU/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/SUDIP-SAU/DSA/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Sliding Window
 |  |
