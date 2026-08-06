@@ -142,6 +142,7 @@ Author - Sudip Sau
 | [0012-integer-to-roman](https://github.com/SUDIP-SAU/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/SUDIP-SAU/DSA/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/SUDIP-SAU/DSA/tree/master/0073-set-matrix-zeroes) |
+| [0076-minimum-window-substring](https://github.com/SUDIP-SAU/DSA/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/SUDIP-SAU/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/SUDIP-SAU/DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/SUDIP-SAU/DSA/tree/master/0141-linked-list-cycle) |
@@ -294,6 +295,7 @@ Author - Sudip Sau
 | [0013-roman-to-integer](https://github.com/SUDIP-SAU/DSA/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/SUDIP-SAU/DSA/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/SUDIP-SAU/DSA/tree/master/0022-generate-parentheses) |
+| [0076-minimum-window-substring](https://github.com/SUDIP-SAU/DSA/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/SUDIP-SAU/DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/SUDIP-SAU/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/SUDIP-SAU/DSA/tree/master/0205-isomorphic-strings) |
@@ -373,6 +375,7 @@ Author - Sudip Sau
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SUDIP-SAU/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/SUDIP-SAU/DSA/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/SUDIP-SAU/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0930-binary-subarrays-with-sum](https://github.com/SUDIP-SAU/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/SUDIP-SAU/DSA/tree/master/0992-subarrays-with-k-different-integers) |
