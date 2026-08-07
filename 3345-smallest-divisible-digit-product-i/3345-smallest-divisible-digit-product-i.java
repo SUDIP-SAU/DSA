@@ -3,22 +3,18 @@ class Solution {
 
         while (true) {
 
-            if (digitProduct(n) % t == 0)
+            int product = 1;
+            int x = n;
+
+            while (x > 0) {
+                product *= x % 10;
+                x /= 10;
+            }
+
+            if (product % t == 0)
                 return n;
 
             n++;
         }
-    }
-
-    private int digitProduct(int num) {
-
-        int product = 1;
-
-        while (num > 0) {
-            product *= num % 10;
-            num /= 10;
-        }
-
-        return product;
     }
 }
