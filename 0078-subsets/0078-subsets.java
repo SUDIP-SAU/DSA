@@ -8,20 +8,20 @@ class Solution {
         return ans;
     }
 
-    private void solve(int index, int[] nums,
+    private void solve(int index,
+                       int[] nums,
                        List<Integer> list,
                        List<List<Integer>> ans) {
 
-        if (index == nums.length) {
-            ans.add(new ArrayList<>(list));
-            return;
+        ans.add(new ArrayList<>(list));
+
+        for (int i = index; i < nums.length; i++) {
+
+            list.add(nums[i]);
+
+            solve(i + 1, nums, list, ans);
+
+            list.remove(list.size() - 1);
         }
-
-        list.add(nums[index]);
-        solve(index + 1, nums, list, ans);
-
-        list.remove(list.size() - 1);
-
-        solve(index + 1, nums, list, ans);
     }
 }
