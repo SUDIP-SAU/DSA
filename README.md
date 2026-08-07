@@ -317,6 +317,7 @@ Author - Sudip Sau
 ## Stack
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/SUDIP-SAU/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/SUDIP-SAU/DSA/tree/master/0234-palindrome-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/SUDIP-SAU/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SUDIP-SAU/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -406,4 +407,12 @@ Author - Sudip Sau
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/SUDIP-SAU/DSA/tree/master/0022-generate-parentheses) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/SUDIP-SAU/DSA/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/SUDIP-SAU/DSA/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
