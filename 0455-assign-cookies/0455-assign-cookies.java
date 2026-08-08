@@ -4,25 +4,18 @@ class Solution {
         Arrays.sort(g);
         Arrays.sort(s);
 
-        int child = 0;
-        int cookie = 0;
+        int i = 0;
+        int j = 0;
 
-        int count = 0;
+        while (i < g.length && j < s.length) {
 
-        while (child < g.length && cookie < s.length) {
-
-            if (s[cookie] >= g[child]) {
-
-                count++;
-                child++;
-                cookie++;
-
-            } else {
-
-                cookie++;
+            if (s[j] >= g[i]) {
+                i++;
             }
+
+            j++;
         }
 
-        return count;
+        return i;
     }
 }
