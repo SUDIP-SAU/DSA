@@ -103,6 +103,7 @@ Author - Sudip Sau
 | [0560-subarray-sum-equals-k](https://github.com/SUDIP-SAU/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SUDIP-SAU/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/SUDIP-SAU/DSA/tree/master/0704-binary-search) |
+| [0860-lemonade-change](https://github.com/SUDIP-SAU/DSA/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/SUDIP-SAU/DSA/tree/master/0875-koko-eating-bananas) |
 | [0930-binary-subarrays-with-sum](https://github.com/SUDIP-SAU/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/SUDIP-SAU/DSA/tree/master/0992-subarrays-with-k-different-integers) |
@@ -341,6 +342,7 @@ Author - Sudip Sau
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/SUDIP-SAU/DSA/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/SUDIP-SAU/DSA/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/SUDIP-SAU/DSA/tree/master/0860-lemonade-change) |
 | [1903-largest-odd-number-in-string](https://github.com/SUDIP-SAU/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SUDIP-SAU/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SUDIP-SAU/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
