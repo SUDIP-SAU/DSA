@@ -250,6 +250,7 @@ Author - Sudip Sau
 | [0410-split-array-largest-sum](https://github.com/SUDIP-SAU/DSA/tree/master/0410-split-array-largest-sum) |
 | [0486-predict-the-winner](https://github.com/SUDIP-SAU/DSA/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/SUDIP-SAU/DSA/tree/master/0509-fibonacci-number) |
+| [0678-valid-parenthesis-string](https://github.com/SUDIP-SAU/DSA/tree/master/0678-valid-parenthesis-string) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/SUDIP-SAU/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Simulation
 |  |
@@ -316,6 +317,7 @@ Author - Sudip Sau
 | [0412-fizz-buzz](https://github.com/SUDIP-SAU/DSA/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/SUDIP-SAU/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/SUDIP-SAU/DSA/tree/master/0451-sort-characters-by-frequency) |
+| [0678-valid-parenthesis-string](https://github.com/SUDIP-SAU/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/SUDIP-SAU/DSA/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/SUDIP-SAU/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SUDIP-SAU/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -331,6 +333,7 @@ Author - Sudip Sau
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/SUDIP-SAU/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/SUDIP-SAU/DSA/tree/master/0234-palindrome-linked-list) |
+| [0678-valid-parenthesis-string](https://github.com/SUDIP-SAU/DSA/tree/master/0678-valid-parenthesis-string) |
 | [1021-remove-outermost-parentheses](https://github.com/SUDIP-SAU/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SUDIP-SAU/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Memoization
@@ -342,6 +345,7 @@ Author - Sudip Sau
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/SUDIP-SAU/DSA/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/SUDIP-SAU/DSA/tree/master/0455-assign-cookies) |
+| [0678-valid-parenthesis-string](https://github.com/SUDIP-SAU/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/SUDIP-SAU/DSA/tree/master/0860-lemonade-change) |
 | [1903-largest-odd-number-in-string](https://github.com/SUDIP-SAU/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SUDIP-SAU/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -423,6 +427,7 @@ Author - Sudip Sau
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/SUDIP-SAU/DSA/tree/master/0022-generate-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/SUDIP-SAU/DSA/tree/master/0678-valid-parenthesis-string) |
 ## Design
 |  |
 | ------- |
