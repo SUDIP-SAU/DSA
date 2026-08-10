@@ -27,14 +27,12 @@ class Solution {
                     ten--;
                     five--;
 
-                }
-                
-                else if (five >= 3) {
+                } else if (five >= 3) {
 
                     five -= 3;
 
-                }
-                else {
+                } else {
+
                     return false;
                 }
             }
