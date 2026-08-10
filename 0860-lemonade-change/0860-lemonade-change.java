@@ -1,62 +1,42 @@
 class Solution {
     public boolean lemonadeChange(int[] bills) {
 
-        List<Integer> money = new ArrayList<>();
+        int five = 0;
+        int ten = 0;
 
         for (int bill : bills) {
 
             if (bill == 5) {
-                money.add(5);
+
+                five++;
             }
 
             else if (bill == 10) {
 
-                int index = money.indexOf(5);
-
-                if (index == -1)
+                if (five == 0)
                     return false;
 
-                money.remove(index);
-                money.add(10);
+                five--;
+                ten++;
             }
 
             else {
 
-                int ten = money.indexOf(10);
-                int five = money.indexOf(5);
+                if (ten > 0 && five > 0) {
 
-                if (ten != -1 && five != -1) {
+                    ten--;
+                    five--;
 
-                    money.remove(ten);
-                    
-                    five = money.indexOf(5);
-                    money.remove(five);
-
-                } else {
-
-                    five = money.indexOf(5);
-
-                    if (five == -1)
-                        return false;
-
-                    money.remove(five);
-
-                    five = money.indexOf(5);
-
-                    if (five == -1)
-                        return false;
-
-                    money.remove(five);
-
-                    five = money.indexOf(5);
-
-                    if (five == -1)
-                        return false;
-
-                    money.remove(five);
                 }
+                
+                else if (five >= 3) {
 
-                money.add(20);
+                    five -= 3;
+
+                }
+                else {
+                    return false;
+                }
             }
         }
 
