@@ -11,6 +11,7 @@ class Solution {
                 break;
             }
         }
+
         HashSet<Integer> set = new HashSet<>();
 
         for (int num : nums) {
