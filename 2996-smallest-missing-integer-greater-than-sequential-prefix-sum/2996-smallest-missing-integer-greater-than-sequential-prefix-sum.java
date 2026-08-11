@@ -11,23 +11,16 @@ class Solution {
                 break;
             }
         }
+        HashSet<Integer> set = new HashSet<>();
 
-        while (true) {
+        for (int num : nums) {
+            set.add(num);
+        }
 
-            boolean found = false;
-
-            for (int num : nums) {
-
-                if (num == sum) {
-                    found = true;
-                    break;
-                }
-            }
-
-            if (!found)
-                return sum;
-
+        while (set.contains(sum)) {
             sum++;
         }
+
+        return sum;
     }
 }
