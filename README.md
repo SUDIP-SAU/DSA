@@ -133,6 +133,7 @@ Author - Sudip Sau
 | [0019-remove-nth-node-from-end-of-list](https://github.com/SUDIP-SAU/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SUDIP-SAU/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/SUDIP-SAU/DSA/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SUDIP-SAU/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/SUDIP-SAU/DSA/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/SUDIP-SAU/DSA/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/SUDIP-SAU/DSA/tree/master/0075-sort-colors) |
@@ -319,6 +320,7 @@ Author - Sudip Sau
 | [0013-roman-to-integer](https://github.com/SUDIP-SAU/DSA/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/SUDIP-SAU/DSA/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/SUDIP-SAU/DSA/tree/master/0022-generate-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SUDIP-SAU/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0076-minimum-window-substring](https://github.com/SUDIP-SAU/DSA/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/SUDIP-SAU/DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/SUDIP-SAU/DSA/tree/master/0151-reverse-words-in-a-string) |
@@ -369,6 +371,7 @@ Author - Sudip Sau
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SUDIP-SAU/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0796-rotate-string](https://github.com/SUDIP-SAU/DSA/tree/master/0796-rotate-string) |
 ## Linked List
 |  |
@@ -458,4 +461,16 @@ Author - Sudip Sau
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/SUDIP-SAU/DSA/tree/master/0496-next-greater-element-i) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SUDIP-SAU/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SUDIP-SAU/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SUDIP-SAU/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
