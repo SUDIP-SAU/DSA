@@ -474,4 +474,8 @@ Author - Sudip Sau
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SUDIP-SAU/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/SUDIP-SAU/DSA/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
