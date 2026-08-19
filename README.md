@@ -17,6 +17,7 @@ Author - Sudip Sau
 | [0050-powx-n](https://github.com/SUDIP-SAU/DSA/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/SUDIP-SAU/DSA/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/SUDIP-SAU/DSA/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/SUDIP-SAU/DSA/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/SUDIP-SAU/DSA/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/SUDIP-SAU/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/SUDIP-SAU/DSA/tree/master/0268-missing-number) |
@@ -90,6 +91,7 @@ Author - Sudip Sau
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SUDIP-SAU/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/SUDIP-SAU/DSA/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/SUDIP-SAU/DSA/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/SUDIP-SAU/DSA/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/SUDIP-SAU/DSA/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/SUDIP-SAU/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/SUDIP-SAU/DSA/tree/master/0219-contains-duplicate-ii) |
@@ -144,6 +146,7 @@ Author - Sudip Sau
 | [0148-sort-list](https://github.com/SUDIP-SAU/DSA/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/SUDIP-SAU/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SUDIP-SAU/DSA/tree/master/0160-intersection-of-two-linked-lists) |
+| [0189-rotate-array](https://github.com/SUDIP-SAU/DSA/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/SUDIP-SAU/DSA/tree/master/0234-palindrome-linked-list) |
 | [0455-assign-cookies](https://github.com/SUDIP-SAU/DSA/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/SUDIP-SAU/DSA/tree/master/0876-middle-of-the-linked-list) |
