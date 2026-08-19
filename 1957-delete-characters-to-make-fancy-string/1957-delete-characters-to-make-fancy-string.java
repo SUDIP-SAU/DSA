@@ -1,30 +1,20 @@
 class Solution {
     public String makeFancyString(String s) {
-        
-        char prev = s.charAt(0);
-        int freq = 1;
 
-        StringBuilder ans = new StringBuilder();
-
-        ans.append(s.charAt(0));
-
-        for (int i = 1; i < s.length(); i++) {
-
-            if (s.charAt(i) == prev) {
-
-                freq++;
-            }
-
-            else{
-
-                prev = s.charAt(i);
-                freq = 1;
-            }
-
-            if (freq < 3)
-                ans.append(s.charAt(i));
+        if (s.length() < 3) {
+            return s;
         }
 
-        return ans.toString();
+        char[] arr = s.toCharArray();
+        int j = 2;
+
+        for (int i = 2; i < s.length(); ++i) {
+
+            if (arr[i] != arr[j - 1] || arr[i] != arr[j - 2]) {
+                arr[j++] = arr[i];
+            }
+        }
+
+        return new String(arr, 0, j);
     }
 }
