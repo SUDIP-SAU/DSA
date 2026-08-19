@@ -339,6 +339,7 @@ Author - Sudip Sau
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SUDIP-SAU/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/SUDIP-SAU/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/SUDIP-SAU/DSA/tree/master/1903-largest-odd-number-in-string) |
+| [1957-delete-characters-to-make-fancy-string](https://github.com/SUDIP-SAU/DSA/tree/master/1957-delete-characters-to-make-fancy-string) |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/SUDIP-SAU/DSA/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SUDIP-SAU/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SUDIP-SAU/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
