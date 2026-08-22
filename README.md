@@ -101,6 +101,7 @@ Author - Sudip Sau
 | [0240-search-a-2d-matrix-ii](https://github.com/SUDIP-SAU/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/SUDIP-SAU/DSA/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/SUDIP-SAU/DSA/tree/master/0410-split-array-largest-sum) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/SUDIP-SAU/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/SUDIP-SAU/DSA/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/SUDIP-SAU/DSA/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/SUDIP-SAU/DSA/tree/master/0486-predict-the-winner) |
@@ -177,6 +178,7 @@ Author - Sudip Sau
 | [0242-valid-anagram](https://github.com/SUDIP-SAU/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/SUDIP-SAU/DSA/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/SUDIP-SAU/DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/SUDIP-SAU/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/SUDIP-SAU/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/SUDIP-SAU/DSA/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/SUDIP-SAU/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -227,6 +229,7 @@ Author - Sudip Sau
 | [0229-majority-element-ii](https://github.com/SUDIP-SAU/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/SUDIP-SAU/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/SUDIP-SAU/DSA/tree/master/0268-missing-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/SUDIP-SAU/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/SUDIP-SAU/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/SUDIP-SAU/DSA/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SUDIP-SAU/DSA/tree/master/0628-maximum-product-of-three-numbers) |
