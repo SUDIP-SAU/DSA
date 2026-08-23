@@ -28,6 +28,7 @@ Author - Sudip Sau
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/SUDIP-SAU/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1903-largest-odd-number-in-string](https://github.com/SUDIP-SAU/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/SUDIP-SAU/DSA/tree/master/1922-count-good-numbers) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/SUDIP-SAU/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2469-convert-the-temperature](https://github.com/SUDIP-SAU/DSA/tree/master/2469-convert-the-temperature) |
 | [2769-find-the-maximum-achievable-number](https://github.com/SUDIP-SAU/DSA/tree/master/2769-find-the-maximum-achievable-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SUDIP-SAU/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -125,6 +126,7 @@ Author - Sudip Sau
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/SUDIP-SAU/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1539-kth-missing-positive-number](https://github.com/SUDIP-SAU/DSA/tree/master/1539-kth-missing-positive-number) |
 | [1901-find-a-peak-element-ii](https://github.com/SUDIP-SAU/DSA/tree/master/1901-find-a-peak-element-ii) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/SUDIP-SAU/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SUDIP-SAU/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SUDIP-SAU/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SUDIP-SAU/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -441,6 +443,7 @@ Author - Sudip Sau
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/SUDIP-SAU/DSA/tree/master/0204-count-primes) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/SUDIP-SAU/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Backtracking
 |  |
 | ------- |
@@ -494,4 +497,12 @@ Author - Sudip Sau
 |  |
 | ------- |
 | [0595-big-countries](https://github.com/SUDIP-SAU/DSA/tree/master/0595-big-countries) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/SUDIP-SAU/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/SUDIP-SAU/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
