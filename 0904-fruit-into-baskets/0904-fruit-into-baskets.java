@@ -2,18 +2,15 @@ class Solution {
     public int totalFruit(int[] fruits) {
 
         int left = 0;
-        int right = 0;
         int maxLen = 0;
 
         HashMap<Integer, Integer> map = new HashMap<>();
 
-        while (right < fruits.length) {
+        for (int right = 0; right < fruits.length; right++) {
 
-            // Add current fruit
             map.put(fruits[right],
                     map.getOrDefault(fruits[right], 0) + 1);
 
-            // Shrink window
             while (map.size() > 2) {
 
                 map.put(fruits[left],
@@ -26,10 +23,7 @@ class Solution {
                 left++;
             }
 
-            // Current window is valid
             maxLen = Math.max(maxLen, right - left + 1);
-
-            right++;
         }
 
         return maxLen;
