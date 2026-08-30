@@ -20,15 +20,12 @@ class Solution {
         int left = Math.min(minIndex, maxIndex);
         int right = Math.max(minIndex, maxIndex);
 
-        int fromFront = right + 1;
-
-        int fromBack = n - left;
-
-        int fromBoth = left + 1 + n - right;
-
         return Math.min(
-            fromFront,
-            Math.min(fromBack, fromBoth)
+            right + 1,
+            Math.min(
+                n - left,
+                left + 1 + n - right
+            )
         );
     }
 }
