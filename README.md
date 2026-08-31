@@ -373,6 +373,7 @@ Author - Sudip Sau
 ## Stack
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/SUDIP-SAU/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/SUDIP-SAU/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/SUDIP-SAU/DSA/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/SUDIP-SAU/DSA/tree/master/0496-next-greater-element-i) |
@@ -523,4 +524,16 @@ Author - Sudip Sau
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SUDIP-SAU/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/SUDIP-SAU/DSA/tree/master/0144-binary-tree-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/SUDIP-SAU/DSA/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/SUDIP-SAU/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
