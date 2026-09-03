@@ -1,22 +1,20 @@
 class Solution {
     public char findTheDifference(String s, String t) {
 
-        boolean[] used = new boolean[t.length()];
+        int[] freq = new int[26];
 
-        for (int i = 0; i < s.length(); i++) {
-
-            for (int j = 0; j < t.length(); j++) {
-
-                if (!used[j] && s.charAt(i) == t.charAt(j)) {
-                    used[j] = true;
-                    break;
-                }
-            }
+        for (char ch : s.toCharArray()) {
+            freq[ch - 'a']++;
         }
 
-        for (int j = 0; j < t.length(); j++) {
-            if (!used[j]) {
-                return t.charAt(j);
+        for (char ch : t.toCharArray()) {
+            freq[ch - 'a']--;
+        }
+
+        for (int i = 0; i < 26; i++) {
+
+            if (freq[i] != 0) {
+                return (char) ('a' + i);
             }
         }
 
