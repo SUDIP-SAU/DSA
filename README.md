@@ -48,6 +48,7 @@ Author - Sudip Sau
 | [0136-single-number](https://github.com/SUDIP-SAU/DSA/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/SUDIP-SAU/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/SUDIP-SAU/DSA/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/SUDIP-SAU/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/SUDIP-SAU/DSA/tree/master/0389-find-the-difference) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/SUDIP-SAU/DSA/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Recursion
@@ -110,6 +111,7 @@ Author - Sudip Sau
 | [0229-majority-element-ii](https://github.com/SUDIP-SAU/DSA/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/SUDIP-SAU/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/SUDIP-SAU/DSA/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/SUDIP-SAU/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/SUDIP-SAU/DSA/tree/master/0410-split-array-largest-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/SUDIP-SAU/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/SUDIP-SAU/DSA/tree/master/0455-assign-cookies) |
@@ -169,6 +171,7 @@ Author - Sudip Sau
 | [0189-rotate-array](https://github.com/SUDIP-SAU/DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/SUDIP-SAU/DSA/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/SUDIP-SAU/DSA/tree/master/0234-palindrome-linked-list) |
+| [0287-find-the-duplicate-number](https://github.com/SUDIP-SAU/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/SUDIP-SAU/DSA/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/SUDIP-SAU/DSA/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/SUDIP-SAU/DSA/tree/master/0876-middle-of-the-linked-list) |
@@ -228,6 +231,7 @@ Author - Sudip Sau
 | [0162-find-peak-element](https://github.com/SUDIP-SAU/DSA/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/SUDIP-SAU/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/SUDIP-SAU/DSA/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/SUDIP-SAU/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/SUDIP-SAU/DSA/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/SUDIP-SAU/DSA/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/SUDIP-SAU/DSA/tree/master/0540-single-element-in-a-sorted-array) |
@@ -556,4 +560,9 @@ Author - Sudip Sau
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/SUDIP-SAU/DSA/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/SUDIP-SAU/DSA/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/SUDIP-SAU/DSA/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
