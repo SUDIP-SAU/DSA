@@ -82,6 +82,7 @@ Author - Sudip Sau
 | [0035-search-insert-position](https://github.com/SUDIP-SAU/DSA/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/SUDIP-SAU/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/SUDIP-SAU/DSA/tree/master/0040-combination-sum-ii) |
+| [0041-first-missing-positive](https://github.com/SUDIP-SAU/DSA/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/SUDIP-SAU/DSA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/SUDIP-SAU/DSA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/SUDIP-SAU/DSA/tree/master/0054-spiral-matrix) |
@@ -185,6 +186,7 @@ Author - Sudip Sau
 | [0012-integer-to-roman](https://github.com/SUDIP-SAU/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/SUDIP-SAU/DSA/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SUDIP-SAU/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0041-first-missing-positive](https://github.com/SUDIP-SAU/DSA/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/SUDIP-SAU/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/SUDIP-SAU/DSA/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/SUDIP-SAU/DSA/tree/master/0128-longest-consecutive-sequence) |
