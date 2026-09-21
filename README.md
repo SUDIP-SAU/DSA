@@ -555,14 +555,17 @@ Author - Sudip Sau
 ## Tree
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/SUDIP-SAU/DSA/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SUDIP-SAU/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/SUDIP-SAU/DSA/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SUDIP-SAU/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/SUDIP-SAU/DSA/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SUDIP-SAU/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -573,4 +576,8 @@ Author - Sudip Sau
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/SUDIP-SAU/DSA/tree/master/0287-find-the-duplicate-number) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/SUDIP-SAU/DSA/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
