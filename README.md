@@ -175,6 +175,7 @@ Author - Sudip Sau
 | [0287-find-the-duplicate-number](https://github.com/SUDIP-SAU/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/SUDIP-SAU/DSA/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/SUDIP-SAU/DSA/tree/master/0455-assign-cookies) |
+| [0567-permutation-in-string](https://github.com/SUDIP-SAU/DSA/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/SUDIP-SAU/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/SUDIP-SAU/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SUDIP-SAU/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -208,6 +209,7 @@ Author - Sudip Sau
 | [0451-sort-characters-by-frequency](https://github.com/SUDIP-SAU/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/SUDIP-SAU/DSA/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/SUDIP-SAU/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/SUDIP-SAU/DSA/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/SUDIP-SAU/DSA/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/SUDIP-SAU/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/SUDIP-SAU/DSA/tree/master/0992-subarrays-with-k-different-integers) |
@@ -377,6 +379,7 @@ Author - Sudip Sau
 | [0424-longest-repeating-character-replacement](https://github.com/SUDIP-SAU/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/SUDIP-SAU/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0520-detect-capital](https://github.com/SUDIP-SAU/DSA/tree/master/0520-detect-capital) |
+| [0567-permutation-in-string](https://github.com/SUDIP-SAU/DSA/tree/master/0567-permutation-in-string) |
 | [0678-valid-parenthesis-string](https://github.com/SUDIP-SAU/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/SUDIP-SAU/DSA/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/SUDIP-SAU/DSA/tree/master/1021-remove-outermost-parentheses) |
@@ -473,6 +476,7 @@ Author - Sudip Sau
 | [0076-minimum-window-substring](https://github.com/SUDIP-SAU/DSA/tree/master/0076-minimum-window-substring) |
 | [0219-contains-duplicate-ii](https://github.com/SUDIP-SAU/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/SUDIP-SAU/DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/SUDIP-SAU/DSA/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/SUDIP-SAU/DSA/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/SUDIP-SAU/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/SUDIP-SAU/DSA/tree/master/0992-subarrays-with-k-different-integers) |
