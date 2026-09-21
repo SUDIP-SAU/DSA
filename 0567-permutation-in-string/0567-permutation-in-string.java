@@ -5,22 +5,40 @@ class Solution {
             return false;
         }
 
-        char[] target = s1.toCharArray();
-        Arrays.sort(target);
+        int[] count = new int[26];
 
-        String sortedS1 = new String(target);
+        for (char ch : s1.toCharArray()) {
+            count[ch - 'a']++;
+        }
 
-        int k = s1.length();
+        int left = 0;
+        int right = 0;
+        int windowSize = s1.length();
 
-        for (int i = 0; i <= s2.length() - k; i++) {
+        while (right < s2.length()) {
 
-            String window = s2.substring(i, i + k);
+            count[s2.charAt(right) - 'a']--;
+            right++;
 
-            char[] chars = window.toCharArray();
-            Arrays.sort(chars);
+            if (right - left > windowSize) {
+                count[s2.charAt(left) - 'a']++;
+                left++;
+            }
 
-            if (new String(chars).equals(sortedS1)) {
-                return true;
+            if (right - left == windowSize) {
+
+                boolean valid = true;
+
+                for (int i = 0; i < 26; i++) {
+                    if (count[i] != 0) {
+                        valid = false;
+                        break;
+                    }
+                }
+
+                if (valid) {
+                    return true;
+                }
             }
         }
 
