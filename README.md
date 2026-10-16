@@ -143,6 +143,7 @@ Author - Sudip Sau
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SUDIP-SAU/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/SUDIP-SAU/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SUDIP-SAU/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/SUDIP-SAU/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SUDIP-SAU/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SUDIP-SAU/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/SUDIP-SAU/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -467,6 +468,7 @@ Author - Sudip Sau
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/SUDIP-SAU/DSA/tree/master/0204-count-primes) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/SUDIP-SAU/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/SUDIP-SAU/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/SUDIP-SAU/DSA/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Sliding Window
