@@ -24,6 +24,7 @@ Author - Sudip Sau
 | [0231-power-of-two](https://github.com/SUDIP-SAU/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/SUDIP-SAU/DSA/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/SUDIP-SAU/DSA/tree/master/0412-fizz-buzz) |
+| [0445-add-two-numbers-ii](https://github.com/SUDIP-SAU/DSA/tree/master/0445-add-two-numbers-ii) |
 | [0486-predict-the-winner](https://github.com/SUDIP-SAU/DSA/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/SUDIP-SAU/DSA/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SUDIP-SAU/DSA/tree/master/0628-maximum-product-of-three-numbers) |
@@ -402,6 +403,7 @@ Author - Sudip Sau
 | [0144-binary-tree-preorder-traversal](https://github.com/SUDIP-SAU/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/SUDIP-SAU/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/SUDIP-SAU/DSA/tree/master/0234-palindrome-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/SUDIP-SAU/DSA/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/SUDIP-SAU/DSA/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/SUDIP-SAU/DSA/tree/master/0678-valid-parenthesis-string) |
 | [1021-remove-outermost-parentheses](https://github.com/SUDIP-SAU/DSA/tree/master/1021-remove-outermost-parentheses) |
@@ -453,6 +455,7 @@ Author - Sudip Sau
 | [0234-palindrome-linked-list](https://github.com/SUDIP-SAU/DSA/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/SUDIP-SAU/DSA/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/SUDIP-SAU/DSA/tree/master/0328-odd-even-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/SUDIP-SAU/DSA/tree/master/0445-add-two-numbers-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/SUDIP-SAU/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/SUDIP-SAU/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Heap (Priority Queue)
