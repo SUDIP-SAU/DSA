@@ -147,6 +147,7 @@ Author - Sudip Sau
 | [2778-sum-of-squares-of-special-elements](https://github.com/SUDIP-SAU/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SUDIP-SAU/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SUDIP-SAU/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/SUDIP-SAU/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/SUDIP-SAU/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/SUDIP-SAU/DSA/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/SUDIP-SAU/DSA/tree/master/3875-construct-uniform-parity-array-i) |
@@ -221,6 +222,7 @@ Author - Sudip Sau
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SUDIP-SAU/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SUDIP-SAU/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/SUDIP-SAU/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/SUDIP-SAU/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/SUDIP-SAU/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/SUDIP-SAU/DSA/tree/master/3731-find-missing-elements) |
 ## Binary Search
@@ -316,6 +318,7 @@ Author - Sudip Sau
 | [1260-shift-2d-grid](https://github.com/SUDIP-SAU/DSA/tree/master/1260-shift-2d-grid) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SUDIP-SAU/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3498-reverse-degree-of-a-string](https://github.com/SUDIP-SAU/DSA/tree/master/3498-reverse-degree-of-a-string) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/SUDIP-SAU/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Union-Find
 |  |
 | ------- |
@@ -356,6 +359,7 @@ Author - Sudip Sau
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/SUDIP-SAU/DSA/tree/master/0493-reverse-pairs) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/SUDIP-SAU/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## String
 |  |
 | ------- |
@@ -458,11 +462,13 @@ Author - Sudip Sau
 | [0445-add-two-numbers-ii](https://github.com/SUDIP-SAU/DSA/tree/master/0445-add-two-numbers-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/SUDIP-SAU/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/SUDIP-SAU/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/SUDIP-SAU/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/SUDIP-SAU/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SUDIP-SAU/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/SUDIP-SAU/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -585,4 +591,8 @@ Author - Sudip Sau
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/SUDIP-SAU/DSA/tree/master/0112-path-sum) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/SUDIP-SAU/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 <!---LeetCode Topics End-->
